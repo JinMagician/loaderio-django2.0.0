@@ -1,3 +1,9 @@
+loaderio-django2.0.0
+
+Updated version of loaderio-django-thelab (https://pypi.org/project/django-loaderio-thelab/#description). Fixed the problem of 'ImportError: cannot import name 'url' from 'django.conf.urls'.
+
+
+
 loaderio-django-thelab
 ===============
 
